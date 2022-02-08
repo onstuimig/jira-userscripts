@@ -3,6 +3,11 @@
 Usable with a Userscript extension like Tampermonkey: [How-to](https://greasyfork.org)
 
 
+## Auto expand comments
+Automatically expand all comments in the issue view
+
+[Install](scripts/jira-auto-expand-comments.user.js?raw=1)
+
 ## Full issue redirect
 Redirect issue modal URLs to issue detail pages
 
