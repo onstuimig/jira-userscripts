@@ -18,6 +18,11 @@ Prevents edititing the issue description on click and adds an `Edit` button to t
 
 [Install](scripts/jira-prevent-click-edit.user.js?raw=1)
 
+## New window links
+Open external links in a new window
+
+[Install](scripts/jira-new-window-links.user.js?raw=1)
+
 ## Reset header styles
 Reset the header colors to default
 
